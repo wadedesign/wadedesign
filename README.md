@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**wadedesign/wadedesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Wade! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I love creating innovative solutions and exploring new technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔭 Currently building **FAQBuddy** - a smart FAQ bot for Discord.
+- 🌱 Learning **Larvel** and honing my **Flask** skills.
+- ✈️ Aviation enthusiast and Pilot (CSEL)
+
+## 🛠️ Tech I Love
+
+- **Languages:** Python, JavaScript, PHP. Rust, Go
+- **Frameworks:** Flask, Laravel
+- **Tools:** Docker, Git, VSCode
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+- [Website]([https://yourwebsite.com](https://wadedev.us/))
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadedesign&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wadedesign&layout=compact&theme=dark)
+
